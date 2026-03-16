@@ -2,7 +2,7 @@
 
 **Final Year Thesis Project**  
 BS Biosciences, COMSATS University Islamabad  
-December 2025
+Feb 2026
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://img.shields.io/badge/DOI-pending-blue.svg)]()
@@ -38,7 +38,7 @@ This case-control study investigated the association between the ATP8B1 SNP rs76
 ### Study Design
 - **Type:** Case-control study
 - **Location:** COMSATS University Islamabad, Department of Biosciences
-- **Duration:** 2024-2025
+- **Duration:** Sep 2025 - Feb 2026
 - **Ethics Approval:** Institutional Review Board, COMSATS University Islamabad
 
 ### Sample Collection
@@ -294,7 +294,7 @@ ATP8B1-Gallstone-Study/
 
 ### Principal Investigator
 **Syed Muhammad Ali Shirazi**  
-BS Biosciences Student (2022-2025)  
+BS Biosciences Student (2022-2026)  
 COMSATS University Islamabad  
 📧 shirazi6503@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/syedmuhammadalishirazi) | [GitHub](https://github.com/alishirazi03)
@@ -345,36 +345,11 @@ Syed Muhammad Ali Shirazi
 🌐 https://alishirazi03.github.io
 
 **For Academic Inquiries:**  
-Dr. Muhammad Ajmal
+Dr. Muhammad Ajmal 
 📧 muhammad.ajmal@comsats.edu.pk
 
 Dr. Nasir Masood  
 📧 nasirmasood@comsats.edu.pk
-
----
-
-## 🔄 Citation
-
-If you use this work in your research, please cite:
-
-```
-Shirazi, S.M.A. (2025). Assessment of the Role of ATP8B1 Gene in Gallstone 
-Disease in the Pakistani Population. Undergraduate Thesis, COMSATS University 
-Islamabad, Department of Biosciences.
-```
-
-**BibTeX:**
-```bibtex
-@thesis{shirazi2025atp8b1,
-  author = {Shirazi, Syed Muhammad Ali},
-  title = {Assessment of the Role of ATP8B1 Gene in Gallstone Disease 
-           in the Pakistani Population},
-  school = {COMSATS University Islamabad},
-  year = {2025},
-  type = {Bachelor's Thesis},
-  department = {Department of Biosciences}
-}
-```
 
 ---
 
@@ -392,15 +367,15 @@ Islamabad, Department of Biosciences.
 - [ ] Manuscript preparation for publication
 - [ ] Follow-up WES study (planned)
 
-**Last Updated:** December 2025
+**Last Updated:** March 2026
 
 ---
 
 ## 🌟 Related Projects
 
 Check out my other bioinformatics work:
-- [SARS-CoV-2 Genomic Analysis Pipeline](https://github.com/alishirazi03/SARS-CoV-2-Analysis) - Viral genome assembly, annotation, and phylogenetics
-- [Bioinformatics Blog](https://alishirazi03.github.io/blog/) - Tutorials and career development
+- [SARS-CoV-2 Genomic Analysis Pipeline](https://github.com/alishirazi03/Hacking-COVID-19-Applied-Bioinformatics-Genomic-Analysis) - Viral genome assembly, annotation, and phylogenetics
+- [Informational Blogs](https://alishirazi03.github.io/blog/)
 
 ---
 
