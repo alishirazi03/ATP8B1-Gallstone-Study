@@ -184,40 +184,6 @@ Limited data exists on this specific SNP (rs766737165) in global populations:
 
 ## 📁 Repository Structure
 
-```
-ATP8B1-Gallstone-Study/
-├── README.md                     # This file
-├── LICENSE                       # MIT License
-├── docs/
-│   ├── thesis_abstract.md       # Thesis abstract
-│   ├── methodology.md           # Detailed methods
-│   ├── results_summary.md       # Results overview
-│   └── references.md            # Bibliography
-├── primers/
-│   ├── primer_design.md         # Primer design rationale
-│   ├── primer_sequences.txt     # All primer sequences
-│   └── tetra_arms_protocol.md   # TETRA-ARMS PCR protocol
-├── protocols/
-│   ├── dna_extraction.md        # DNA extraction protocol
-│   ├── pcr_amplification.md     # PCR conditions
-│   ├── gel_electrophoresis.md   # Gel running protocol
-│   └── sample_collection.md     # Blood sample handling
-├── data/
-│   ├── demographics.csv         # Anonymized demographic data
-│   ├── genotype_results.csv     # Genotyping results (anonymized)
-│   └── README.md                # Data dictionary
-├── images/
-│   ├── gel_images/              # Representative gel electrophoresis images
-│   ├── figures/                 # Thesis figures
-│   └── workflow_diagram.png     # Visual workflow
-└── supplementary/
-    ├── ethics_approval.md       # Ethics statement
-    ├── informed_consent.md      # Consent form template
-    └── abbreviations.md         # List of abbreviations
-```
-
-**Note:** Patient identifiable data is NOT included to protect privacy.
-
 ---
 
 ## 🔐 Data Privacy & Ethics
