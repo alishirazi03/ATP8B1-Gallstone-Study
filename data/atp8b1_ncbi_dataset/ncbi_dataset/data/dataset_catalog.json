@@ -1,0 +1,57 @@
+{
+  "genes": {
+    "files": [
+      {
+        "filePath": "gene.fna",
+        "fileType": "GENOMIC_NUCLEOTIDE_FASTA",
+        "uncompressedLengthBytes": "318098"
+      },
+      {
+        "filePath": "rna.fna",
+        "fileType": "RNA_NUCLEOTIDE_FASTA",
+        "uncompressedLengthBytes": "130078"
+      },
+      {
+        "filePath": "protein.faa",
+        "fileType": "PROTEIN_FASTA",
+        "uncompressedLengthBytes": "27919"
+      },
+      {
+        "filePath": "cds.fna",
+        "fileType": "CDS_NUCLEOTIDE_FASTA",
+        "uncompressedLengthBytes": "81241"
+      },
+      {
+        "filePath": "5p_utr.fna",
+        "fileType": "RNA_NUCLEOTIDE_FASTA",
+        "uncompressedLengthBytes": "7435"
+      },
+      {
+        "filePath": "3p_utr.fna",
+        "fileType": "RNA_NUCLEOTIDE_FASTA",
+        "uncompressedLengthBytes": "46068"
+      },
+      {
+        "filePath": "data_report.jsonl",
+        "fileType": "DATA_REPORT",
+        "uncompressedLengthBytes": "8420"
+      },
+      {
+        "filePath": "gene_data_table.tsv",
+        "fileType": "DATA_TABLE",
+        "uncompressedLengthBytes": "236"
+      },
+      {
+        "filePath": "product_report.jsonl",
+        "fileType": "DATA_REPORT",
+        "uncompressedLengthBytes": "60235"
+      },
+      {
+        "filePath": "gene_product_table.tsv",
+        "fileType": "DATA_TABLE",
+        "uncompressedLengthBytes": "2234"
+      }
+    ]
+  },
+  "apiVersion": "V2"
+}
