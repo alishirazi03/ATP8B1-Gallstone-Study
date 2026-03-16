@@ -5,7 +5,6 @@ BS Biosciences, COMSATS University Islamabad
 Feb 2026
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://img.shields.io/badge/DOI-pending-blue.svg)]()
 
 ---
 
